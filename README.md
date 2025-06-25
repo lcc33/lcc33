@@ -1,7 +1,7 @@
-# Hi I'm Muhammad, A frontend web developer 💻!
+# Hi I'm Muhammad, A Web developer 💻!
 
 # 💫 About Me:
-🔧 I’m currently working on<br>Building my frontend developer portfolio and exploring innovative UI/UX designs.<br><br>🤝 I’m looking to collaborate on<br>Open-source frontend projects, interactive web apps, and JavaScript-based tools.<br><br>👐 I’m looking for help with<br>Advanced React concepts, Web animations, and optimizing performance in frontend development.<br><br>🌱 I’m currently learning<br>React, JavaScript, and exploring Three.js for 3D visuals in web development.<br><br>💬 Ask me about<br>Frontend development, Tailwind CSS, and anything related to modern web design.<br><br>⚡ Fun fact<br>I can spend hours perfecting a single UI animation and still call it “just a small tweak.” 😆
+🔧 I’m currently working on<br>Building my web developer portfolio and exploring innovative system designs and logic.<br><br>🤝 I’m looking to collaborate on<br>Open-source frontend projects, interactive web apps, and JavaScript-based tools.<br><br>👐 I’m looking for help with<br>Advanced React concepts, Web animations, and optimizing performance in frontend development.<br><br>🌱 I’m currently learning<br>React, express, python JavaScript, and exploring Three.js for 3D visuals in web development.<br><br>💬 Ask me about<br>Astrojs, Tailwind CSS, and anything related to modern web design.<br><br>⚡ Fun fact<br>I can spend hours perfecting a single UI animation and still call it “just a small tweak.” 😆
 
 
 ## 🌐 Socials:
